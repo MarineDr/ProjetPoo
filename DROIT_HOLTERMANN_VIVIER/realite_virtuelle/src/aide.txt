@@ -1,0 +1,11 @@
+Tapez "inventaire" pour voir les objets qu'il contient et vos caractéristiques.
+Tapez "observer" pour voir le contenu d'une pièce et les sorties empruntables,
+      "observer objet" pour avoir des détails sur l'objet passé en paramètre.
+Tapez "aller" puis le nom d'une sortie pour changer de pièce.
+Tapez "prendre" pour prendre un objet qui se trouve dans la pièce.
+Tapez "utiliser" avec un ou plusieurs objets ensemble.
+Tapez "ouvrir" pour accéder à un fichier qui se trouve dans la pièce.
+Tapez "quitter" pour fermer le jeu.
+*ligne non affichée*
+
+

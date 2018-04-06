@@ -1,0 +1,11 @@
+Bienvenue dans Réalité Virtuelle développé par DROIT Marine,HOLTERMANN Benjamin, VIVIER Salomé.
+Pour jouer au jeu entrez des phrases dans la ligne de commandes en dessous. Vous pouvez taper la
+commande aide a tout moment pour obtenir l'ensemble des commandes utilisables, elles sont toutes en
+français.
+
+Pour terminer le jeu, entrez directement la phrase magique dans l'invite de commandes !
+******************************************************************************
+
+Vous vous sentez attiré irrésistiblement vers l'écran tandis que votre vision se trouble... Vous vous trouvez dans un espace terriblement obscur bercé de lumière verte, vous voyez défiler des tonnes de 0 et de 1 autour de vous, quand tout d'un coup ces chiffres s'assemblent et créent une phrase lisible. Il est écrit : 
+Vous et votre système ne faites plus qu'un si vous tenez à retourner dans le monde réel vous devrez completer la quête que je vous donne. Résolvez mes énigmes et trouvez la leçon qui s'y cache et je vous laisserai partir, sinon vous vous épuiserez jusqu'à la mort...
+*ligne non affichée*
